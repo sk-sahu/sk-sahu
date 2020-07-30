@@ -1,9 +1,17 @@
 ### Hi there 👋
 
-<!--
-**sk-sahu/sk-sahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:technologist: I'm a Bioinformatics Engineer  
+:dna: understanding Genomics data  
+:twisted_rightwards_arrows: :computer: :repeat_one: creating automated Workflows  
+:telescope: reproducible research and open source software  
 
-Here are some ideas to get you started:
+:mailbox: DM open in [![alt text][1.1]][1] @sangram_ksahu
+
+[1.1]: http://i.imgur.com/tXSoThF.png
+
+[1]: http://www.twitter.com/sangram_ksahu
+
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +21,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[twitter]: http://i.imgur.com/tXSoThF.png
+
 -->
