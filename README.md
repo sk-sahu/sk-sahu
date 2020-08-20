@@ -3,24 +3,22 @@
 :technologist: I'm a Bioinformatics Engineer  
 :dna: understanding Genomics data  
 :twisted_rightwards_arrows: :computer: :repeat_one: creating automated Workflows  
-:telescope: reproducible research and open source software  
+:telescope: :recycle: reproducible research and open source software  
 
-:mailbox: DM open in [![alt text][1.1]][1] @sangram_ksahu
+:mailbox: DM open in [![alt text][1.1]][1] [@sangram_ksahu]
+
+:calendar: [Calander book](https://calendly.com/sksahu/meeting)
+
+:octocat: [My GitHub Gists](https://gist.github.com/sk-sahu)
 
 [1.1]: http://i.imgur.com/tXSoThF.png
-
 [1]: http://www.twitter.com/sangram_ksahu
+[@sangram_ksahu]: http://www.twitter.com/sangram_ksahu
+
+For everything else :globe_with_meridians: https://sksahu.net :bowtie:
 
 <!--
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-[twitter]: http://i.imgur.com/tXSoThF.png
+This is comment and won't be shown anything inside this
 
 -->
