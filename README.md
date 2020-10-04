@@ -1,21 +1,18 @@
-### Hi there 👋
+### Hi there 👋 I'm Sangram
 
-:technologist: I'm a Bioinformatics Engineer  
-:dna: understanding Genomics data  
-:twisted_rightwards_arrows: :computer: :repeat_one: creating automated Workflows  
-:telescope: :recycle: reproducible research and open source software  
+:technologist: A Bioinformatics Solution Architect  
+:dna: Helping understand Genomics data  
+:twisted_rightwards_arrows: :computer: :recycle: Intrested in Reproducible, FAIR and Open Research  
 
-:mailbox: DM open in [![alt text][1.1]][1] [@sangram_ksahu]
+:mailbox: DM open in [![alt text][1.1]][1] [@sangram_ksahu] More to talk :calendar: [Calander](https://calendly.com/sksahu/meeting)
 
-:calendar: [Calander book](https://calendly.com/sksahu/meeting)
+:octocat: [GitHub Gists](https://gist.github.com/sk-sahu) 
 
-:octocat: [My GitHub Gists](https://gist.github.com/sk-sahu)
+For everything else :globe_with_meridians: https://sksahu.net :bowtie:
 
 [1.1]: http://i.imgur.com/tXSoThF.png
 [1]: http://www.twitter.com/sangram_ksahu
 [@sangram_ksahu]: http://www.twitter.com/sangram_ksahu
-
-For everything else :globe_with_meridians: https://sksahu.net :bowtie:
 
 <!--
 
